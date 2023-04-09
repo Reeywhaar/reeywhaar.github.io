@@ -1,0 +1,22 @@
+baseURL = 'http://reeywhaar.github.io/'
+languageCode = 'en-us'
+title = 'Blip and Blinks'
+theme = 'github.com/nodejh/hugo-theme-mini'
+
+params.customCSS = [
+    "css/syntax.css",
+    "css/main.css",
+]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    tabWidth = 4
+    noClasses = false
+
+
