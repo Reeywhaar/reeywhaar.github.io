@@ -1,5 +1,5 @@
 ---
-title: "Debricking Xiaomi 4c on MacOs"
+title: "Debricking Xiaomi Router 4c on MacOs"
 date: 2023-04-09T19:06:37+03:00
 draft: false
 tags:
