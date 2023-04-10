@@ -1,3 +1,12 @@
 .chroma .lnt {
   display: block;
 }
+
+#list-page .date {
+  top: 6px;
+}
+
+.profile {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
