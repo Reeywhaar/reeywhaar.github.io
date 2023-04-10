@@ -5,6 +5,7 @@ draft: false
 tags:
   - Development
   - Unix
+summary: I've bought a Xiaomi 4c router and installed OpenWrt. After some time I decided to restore stock firmware as it more stable. By doing so I've bricked my router. And now I must to debrick it with tools available on MacOs.
 ---
 
 A short preamble. If you don't want to read how i've bricked my router go to the next chapter "Debricking".
