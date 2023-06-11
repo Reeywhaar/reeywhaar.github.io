@@ -4,7 +4,7 @@ date: 2023-06-05T00:53:39+03:00
 draft: false
 tags:
   - Development
-  - Algorithms
+  - UI
 summary: Default folders which are provided by modern operating systems are nonsense
 ---
 
