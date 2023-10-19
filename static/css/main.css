@@ -2,6 +2,10 @@
   display: block;
 }
 
+.chroma .lntd:first-child {
+  width: 20px;
+}
+
 #list-page .date {
   top: 6px;
 }
